@@ -1,0 +1,16 @@
+.box{
+    color:red;
+    /* background-color: black;  */
+    border: black solid 2px;
+    height:700 px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+h5{
+    font-size: 50px;
+    text-emphasis: bold;
+}
